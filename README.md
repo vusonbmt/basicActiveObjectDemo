@@ -1,4 +1,11 @@
 # Basic Active Object Demo
+This project is sample for cmake and cpputest demo
+Build project:
+```
+mkdir build ; cd build
+cmake ../
+make -j4
+```
 This project demonstrates a basic C module using an active object pattern.
 
 This project was created to provide an example code base supporting the following post: https://covemountainsoftware.com/2021/04/20/what-is-an-active-object/
